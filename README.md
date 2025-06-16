@@ -16,7 +16,7 @@ This is a simple yet powerful C++ implementation of a Sudoku Solver using **back
 
 ---
 
-## 🧠 How It Works – In Plain English
+## 🧠 How It Works 
 
 1. **What is Sudoku?**  
    A 9×9 grid divided into 3×3 subgrids. Fill it such that:
